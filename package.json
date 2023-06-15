@@ -1,0 +1,14 @@
+{
+  "name": "what-the-hex-2",
+  "version": "1.0.0",
+  "description": "A description of your project",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "some-dev-dependency": "^1.0.0"
+  }
+}
